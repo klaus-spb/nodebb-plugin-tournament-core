@@ -1,0 +1,27 @@
+{
+  "name": "nodebb-plugin-quickstart",
+  "version": "0.0.1",
+  "description": "A starter kit for quickly creating NodeBB plugins",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klaus-spb/nodebb-plugin-tournament-core"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "tournament"
+  ],
+  "author": {
+    "name": "Klaus",
+    "email": "reverty@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klaus-spb/nodebb-plugin-tournament-core/issues"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  }
+}

@@ -1,1 +1,2 @@
-# nodebb-plugin-tournament-core
+# Tournament Plugin for NodeBB
+
